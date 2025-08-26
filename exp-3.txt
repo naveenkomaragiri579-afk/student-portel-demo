@@ -1,0 +1,4 @@
+student name: durga Naveen komaragiri
+attidance percentage: 75%
+class: Cs-c
+academic percentage: 8.0
